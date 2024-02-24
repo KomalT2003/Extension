@@ -1,0 +1,14 @@
+node_modules/
+package-lock.json
+*.log
+*.gz
+.env
+
+# Coveralls
+.nyc_output
+coverage
+
+# Benchmarking
+benchmarks/graphs
+MLenv/
+penv/
